@@ -1,0 +1,7 @@
+{
+    "SECRET_KEY": "SecretKey01",
+    "SHOP_ID": 5,
+    "SQLALCHEMY_DATABASE_URI": "sqlite:///db/test.db",
+    "DEBUG": "False",
+    "SQLALCHEMY_TRACK_MODIFICATIONS": "False"
+}

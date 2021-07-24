@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  involetesttask:
+    image: involetesttask
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 5000:5000
+    volumes: 
+      - db-data:/app/db
+      - logs:/app/logs
+volumes: 
+  db-data:
+    driver: local
+  logs:
+    driver: local
