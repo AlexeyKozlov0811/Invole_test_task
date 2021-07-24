@@ -1,5 +1,9 @@
 # Involve_test_task
-## To run an app use commands:
+
+## To access an app use link:
+## https://involve-test-task-kozlov.herokuapp.com/
+
+## To run an app locally use commands:
 
 - git clone https://github.com/AlexeyKozlov0811/Involve_test_task.git
 - cd Involve_test_task
