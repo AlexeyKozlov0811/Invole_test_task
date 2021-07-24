@@ -2,7 +2,7 @@
 ## To run an app use commands:
 
 - git clone https://github.com/AlexeyKozlov0811/Involve_test_task.git
-- cd StarNavi-test-task
+- cd Involve_test_task
 - docker-compose up --build
 
 ## When app is started you will see a message like this:
